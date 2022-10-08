@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Dicas para gest&amp;#227;o de projetos" />
+              <option name="title_text" value="dicas" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1551,46 +1551,46 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6ErTdLnDhBF" displaytext="Inicio" expand="true" type="slide">
+        <slidelink slideid="_player.6ErTdLnDhBF" displaytext="Inicio" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6ErTdLnDhBF.5XFPTCtlIKa" displaytext="Dicas para gestão de projetos" expand="false" type="slide" />
             <slidelink slideid="_player.6ErTdLnDhBF.5oFQx73Xw5l" displaytext="Menu Inicial" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.66Ire0AITOf" displaytext="Regra dos 80 / 20" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.66Ire0AITOf.5ak59qpmT3U" displaytext="Regra dos 80 / 20" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6KZXiifO9dy" displaytext="Parar a micro-gestão" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6KZXiifO9dy.5V5gu2uRnd2" displaytext="Parar a micro-gestão" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5p2kiytaqns" displaytext="Não apenas atualizações de estado" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5p2kiytaqns.6996J6JSZvp" displaytext="Como usar melhor o tempo:" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5Vypcbna69r" displaytext="Criar uma lista de tarefas" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5Vypcbna69r.6WmxjiNpRT2" displaytext="Criar uma lista de tarefas" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5V7CkkplGxE" displaytext="Criar um plano" expand="true" type="slide">
+        <slidelink slideid="_player.5V7CkkplGxE" displaytext="Criar um plano" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.5V7CkkplGxE.5sZ8h8uIGzM" displaytext="Criar o plano" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6lIVwYSlq2g" displaytext="Conclusão" expand="true" type="slide">
+        <slidelink slideid="_player.66Ire0AITOf" displaytext="Regra dos 80 / 20" expand="false" type="slide">
           <links>
-            <slidelink slideid="_player.6lIVwYSlq2g.5moa2P3c8Yc" displaytext="Draw from Quiz" expand="false" type="slide" />
-            <slidelink slideid="_player.6lIVwYSlq2g.6RmZ31SpANJ" displaytext="Resumo" expand="false" type="slide" />
+            <slidelink slideid="_player.66Ire0AITOf.5ak59qpmT3U" displaytext="Regra dos 80 / 20" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6oGBdqUl6d9" displaytext="Nao faças o trabalho" expand="true" type="slide">
+        <slidelink slideid="_player.5p2kiytaqns" displaytext="Não apenas atualizações de estado" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5p2kiytaqns.6996J6JSZvp" displaytext="Como usar melhor o tempo:" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6KZXiifO9dy" displaytext="Parar a micro-gestão" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6KZXiifO9dy.5V5gu2uRnd2" displaytext="Parar a micro-gestão" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6oGBdqUl6d9" displaytext="Nao faças o trabalho" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6oGBdqUl6d9.5m0x8n7FSDO" displaytext="Não faças o trabalho" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5Vypcbna69r" displaytext="Criar uma lista de tarefas" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5Vypcbna69r.6WmxjiNpRT2" displaytext="Criar uma lista de tarefas" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6lIVwYSlq2g" displaytext="Conclusão" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6lIVwYSlq2g.6RmZ31SpANJ" displaytext="Resumo" expand="false" type="slide" />
+            <slidelink slideid="_player.6lIVwYSlq2g.5moa2P3c8Yc" displaytext="Draw from Quiz" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
